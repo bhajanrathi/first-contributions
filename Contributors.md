@@ -10,6 +10,7 @@
 - [Sneha Gadekarla] (https://github.com/SnehaG100)
 - [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
+- [Bhajan Rathi] (https://github.com/bhajanrathi)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
 - [CasManny](https://github.com/CasManny)
